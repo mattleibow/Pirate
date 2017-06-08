@@ -12,6 +12,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
 	{
-		this.transform.Rotate(0, 75 * Time.deltaTime, 0);
+		this.transform.Rotate(0, 85 * Time.deltaTime, 0);
 	}
 }
